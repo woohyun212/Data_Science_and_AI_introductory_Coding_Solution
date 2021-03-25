@@ -17,6 +17,7 @@ if func2_false() and func1_true():
     blabla()
 
 print("-----------------")
-if all([func2_false(), func1_true(), func2_false(), func2_false(), func2_false(), func2_false(),]):
+if all([func2_false(), func1_true(), func2_false(), func2_false(), func2_false(), func2_false(), ]):
     blabla()
-#git 테스트
+
+# git 테스트
