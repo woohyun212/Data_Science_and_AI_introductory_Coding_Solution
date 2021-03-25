@@ -21,3 +21,4 @@ if all([func2_false(), func1_true(), func2_false(), func2_false(), func2_false()
     blabla()
 
 # git 테스트
+# pyCharm git 연동 test

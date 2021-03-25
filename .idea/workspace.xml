@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="" />
+    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="git test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/test1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +166,26 @@
       <option name="presentableId" value="Default" />
       <updated>1615186122686</updated>
     </task>
+    <task id="LOCAL-00001" summary="git test">
+      <created>1616652411646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616652411646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git test">
+      <created>1616652448728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616652448728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="git test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="182" key="#Inspections" timestamp="1616478459932">
@@ -174,10 +196,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="362" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616427366289" />
-    <state x="221" y="112" key="CommitChangelistDialog2" timestamp="1616652447786">
+    <state x="221" y="112" key="CommitChangelistDialog2" timestamp="1616652552709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="221" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616652447786" />
+    <state x="221" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616652552709" />
+    <state x="0" y="86" key="DiffContextDialog" timestamp="1616652538099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616652538099" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1616427350887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,6 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="136" y="140" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616652309151" />
+    <state x="199" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616652757754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="199" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616652757754" />
     <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616482930446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
