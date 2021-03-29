@@ -1,7 +1,7 @@
 import random
 
 # 입력-리스트
-num = list(map(int, input("세 정수를 입력하시오 : ").split(" ")))
+num = list(map(int, input("세 정수를 입력하시오 : ").split()))
 # 랜덤 리스트 생성
 lotto = []
 for _ in range(3):
@@ -24,3 +24,5 @@ elif count == 1:
     print("상금 1만원")
 else:
     print("다음 기회에...")
+print(num)
+print(lotto)
