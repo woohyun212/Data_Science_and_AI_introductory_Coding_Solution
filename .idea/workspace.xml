@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="pyCharm git test">
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_8_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_8_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_8_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/ch_9.py" afterDir="false" />
+    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="5 chapter 도전 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/Help/yejini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Help/yejini2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/ex_9_use_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/ex4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/ex4_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +49,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter5" />
+      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter4" />
       <recent name="D:\_University_Lecture\Data_Science_and_AI_introductory_Coding" />
       <recent name="D:\University Lecture\Data_Science_and_AI_introductory Coding" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.ch_12">
-    <configuration name="ch_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex_9_use_list">
+    <configuration name="ex_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ch_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ex_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ch_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ex_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ch_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ex_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_8_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ch_8_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ex_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_9_use_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ch_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/ex_9_use_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ch_12" />
-        <item itemvalue="Python.ch_11" />
-        <item itemvalue="Python.ch_10" />
-        <item itemvalue="Python.ch_9" />
-        <item itemvalue="Python.ch_8_3" />
+        <item itemvalue="Python.ex_9_use_list" />
+        <item itemvalue="Python.ex_9" />
+        <item itemvalue="Python.ex_10" />
+        <item itemvalue="Python.ex_8" />
+        <item itemvalue="Python.ex_7" />
       </list>
     </recent_temporary>
   </component>
@@ -203,27 +206,43 @@
       <option name="project" value="LOCAL" />
       <updated>1616652776760</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="split() 은 split(&quot; &quot;) 랑 같다">
+      <created>1617035493611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617035493611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5 chapter 도전 문제 풀이">
+      <created>1617035520371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617035520371</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git test" />
     <MESSAGE value="pyCharm git test" />
-    <option name="LAST_COMMIT_MESSAGE" value="pyCharm git test" />
+    <MESSAGE value="split() 은 split(&quot; &quot;) 랑 같다" />
+    <MESSAGE value="5 chapter 도전 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 chapter 도전 문제 풀이" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="72" y="182" key="#Inspections" timestamp="1617023541332">
+    <state x="72" y="182" key="#Inspections" timestamp="1617253731468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="182" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1617023541332" />
+    <state x="72" y="182" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1617253731468" />
     <state x="362" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617020084147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="362" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617020084147" />
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1617035489594">
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1617206466645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617035489594" />
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617206466645" />
     <state x="0" y="86" key="DiffContextDialog" timestamp="1616652538099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,38 +251,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616427350887" />
-    <state width="936" height="678" key="GridCell.Tab.0.bottom" timestamp="1617029259928">
+    <state width="1899" height="451" key="GridCell.Tab.-1.bottom" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="678" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617029259928" />
-    <state width="936" height="678" key="GridCell.Tab.0.center" timestamp="1617029259928">
+    <state width="1899" height="451" key="GridCell.Tab.-1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
+    <state width="1899" height="451" key="GridCell.Tab.-1.center" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="678" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617029259928" />
-    <state width="936" height="678" key="GridCell.Tab.0.left" timestamp="1617029259927">
+    <state width="1899" height="451" key="GridCell.Tab.-1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
+    <state width="1899" height="451" key="GridCell.Tab.-1.left" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="678" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617029259927" />
-    <state width="936" height="678" key="GridCell.Tab.0.right" timestamp="1617029259928">
+    <state width="1899" height="451" key="GridCell.Tab.-1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
+    <state width="1899" height="451" key="GridCell.Tab.-1.right" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="678" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617029259928" />
-    <state width="923" height="512" key="GridCell.Tab.1.bottom" timestamp="1617026543598">
+    <state width="1899" height="451" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
+    <state width="1899" height="587" key="GridCell.Tab.0.bottom" timestamp="1617256139140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="923" height="512" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617026543598" />
-    <state width="923" height="512" key="GridCell.Tab.1.center" timestamp="1617026543598">
+    <state width="1899" height="587" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617256139140" />
+    <state width="1899" height="587" key="GridCell.Tab.0.center" timestamp="1617256139140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="923" height="512" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617026543598" />
-    <state width="923" height="512" key="GridCell.Tab.1.left" timestamp="1617026543598">
+    <state width="1899" height="587" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617256139140" />
+    <state width="1899" height="587" key="GridCell.Tab.0.left" timestamp="1617256139140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="923" height="512" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617026543598" />
-    <state width="923" height="512" key="GridCell.Tab.1.right" timestamp="1617026543598">
+    <state width="1899" height="587" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617256139140" />
+    <state width="1899" height="587" key="GridCell.Tab.0.right" timestamp="1617256139140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="923" height="512" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617026543598" />
+    <state width="1899" height="587" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617256139140" />
+    <state width="1877" height="451" key="GridCell.Tab.1.bottom" timestamp="1617117537366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617117537366" />
+    <state width="1877" height="451" key="GridCell.Tab.1.center" timestamp="1617117537366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617117537366" />
+    <state width="1877" height="451" key="GridCell.Tab.1.left" timestamp="1617117537366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617117537366" />
+    <state width="1877" height="451" key="GridCell.Tab.1.right" timestamp="1617117537366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117537366" />
     <state x="136" y="140" key="SettingsEditor" timestamp="1616652309151">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -272,17 +307,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="199" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616652780420" />
-    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616657064837">
+    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617117078453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616657064837" />
-    <state x="411" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617035439708">
+    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617117078453" />
+    <state x="411" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617204621024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="411" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617035439708" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617028210359">
+    <state x="411" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617204621024" />
+    <state x="587" y="64" width="745" height="912" key="find.popup" timestamp="1617118125537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617028210359" />
+    <state x="587" y="64" width="745" height="912" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617118125537" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617252567215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617252567215" />
   </component>
 </project>
