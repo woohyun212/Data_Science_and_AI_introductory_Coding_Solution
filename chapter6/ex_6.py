@@ -1,7 +1,7 @@
 def isPrime(n):
     if n <= 1:
         return False
-    for i in range(2, n - 1):
+    for i in range(2, n):
         # 1과 자기 자신으로만 나누어 진다 <=> 1과 자기 자신 이외에도 나누어진다.
         if n % i == 0:
             return False
