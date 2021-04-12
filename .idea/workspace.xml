@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="chapter 7 도전 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex7_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ex9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data_Science_and_AI_introductory Coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Science_and_AI_introductory Coding.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/ex_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/ex_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +29,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7/ex_7_1.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/chapter7/ex_7_1.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,8 +47,8 @@
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_9">
-    <configuration name="ex_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex_7_1 (1)">
+    <configuration name="ex_7_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ex_7_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex_7_1 (1)" />
         <item itemvalue="Python.ex_9" />
         <item itemvalue="Python.ex_8" />
         <item itemvalue="Python.ex_7_2" />
         <item itemvalue="Python.ex_7_1" />
-        <item itemvalue="Python.ex_5" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617788817498</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chapter 7 심화문제 풀이">
+      <created>1618214402987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618214402987</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +256,8 @@
     <MESSAGE value="6 chapter 도전, LAB, 심화 문제 풀이" />
     <MESSAGE value="4번째줄 2~n-1 이니 2,n 이 맞음" />
     <MESSAGE value="chapter 7 도전 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 도전 문제 풀이" />
+    <MESSAGE value="chapter 7 심화문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 심화문제 풀이" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="182" key="#Inspections" timestamp="1617253731468">
@@ -285,18 +284,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="851" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618204302630" />
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1618214289054">
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1618229057976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618214289054" />
-    <state x="0" y="86" key="DiffContextDialog" timestamp="1617788789090">
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618229057976" />
+    <state x="226" y="75" width="1536" height="860" key="DiffContextDialog" timestamp="1618229056816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617788789090" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1617976983108">
+    <state x="226" y="75" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618229056816" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1618229027083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617976983108" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618229027083" />
     <state width="1899" height="451" key="GridCell.Tab.-1.bottom" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,22 +312,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="451" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
-    <state width="1899" height="483" key="GridCell.Tab.0.bottom" timestamp="1618214174478">
+    <state width="1164" height="351" key="GridCell.Tab.0.bottom" timestamp="1618228996942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="483" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
-    <state width="1899" height="483" key="GridCell.Tab.0.center" timestamp="1618214174478">
+    <state width="1164" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
+    <state width="1164" height="351" key="GridCell.Tab.0.center" timestamp="1618228996942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="483" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
-    <state width="1899" height="483" key="GridCell.Tab.0.left" timestamp="1618214174478">
+    <state width="1164" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
+    <state width="1164" height="351" key="GridCell.Tab.0.left" timestamp="1618228996941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="483" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
-    <state width="1899" height="483" key="GridCell.Tab.0.right" timestamp="1618214174478">
+    <state width="1164" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996941" />
+    <state width="1164" height="351" key="GridCell.Tab.0.right" timestamp="1618228996942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="483" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
+    <state width="1164" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
     <state width="1877" height="451" key="GridCell.Tab.1.bottom" timestamp="1617117537366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -349,10 +348,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="136" y="140" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617977077587" />
-    <state x="199" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617642864892">
+    <state x="199" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618214416629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="199" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617642864892" />
+    <state x="199" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618214416629" />
     <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617984035540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -369,9 +368,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="587" y="64" width="745" height="912" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617118125537" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618211121062">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618228397543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618211121062" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618228397543" />
   </component>
 </project>
