@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="6 chapter 도전, LAB, 심화 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/chapter7/ch_1_1,2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ch_2_1,2,3,4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ch_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ch_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/ch_5.py" afterDir="false" />
+    <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="chapter 7 도전 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex7_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/ex9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data_Science_and_AI_introductory Coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Science_and_AI_introductory Coding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/ex_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/ex_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +41,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding" />
-      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7" />
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter7" />
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter6" />
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter5" />
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
-      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\chapter4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding" />
+      <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ch_5">
-    <configuration name="ch_1_1,2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex_9">
+    <configuration name="ex_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ch_1_1,2.py" />
+      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ch_3.py" />
+      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_7_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_7_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ch_4.py" />
+      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_7_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ch_5.py" />
+      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Help" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Help/lesson.py" />
+      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ch_5" />
-        <item itemvalue="Python.lesson" />
-        <item itemvalue="Python.ch_4" />
-        <item itemvalue="Python.ch_3" />
-        <item itemvalue="Python.ch_1_1,2" />
+        <item itemvalue="Python.ex_9" />
+        <item itemvalue="Python.ex_8" />
+        <item itemvalue="Python.ex_7_2" />
+        <item itemvalue="Python.ex_7_1" />
+        <item itemvalue="Python.ex_5" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617642610564</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="4번째줄 2~n-1 이니 2,n 이 맞음">
+      <created>1617788799644</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617788799644</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chapter 7 도전 문제 풀이">
+      <created>1617788817498</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617788817498</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,13 +256,19 @@
     <MESSAGE value="5 chapter 도전 문제 풀이" />
     <MESSAGE value="5 chapter 심화 문제 풀이" />
     <MESSAGE value="6 chapter 도전, LAB, 심화 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 chapter 도전, LAB, 심화 문제 풀이" />
+    <MESSAGE value="4번째줄 2~n-1 이니 2,n 이 맞음" />
+    <MESSAGE value="chapter 7 도전 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 도전 문제 풀이" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="182" key="#Inspections" timestamp="1617253731468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="72" y="182" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1617253731468" />
+    <state x="676" y="127" key="#api" timestamp="1617982473730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="127" key="#api/0.0.1920.1040@0.0.1920.1040" timestamp="1617982473730" />
     <state x="362" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617020084147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -252,18 +277,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617628628527" />
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1617788796173">
+    <state x="676" y="115" key="#test" timestamp="1617977063789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1617788796173" />
+    <state x="676" y="115" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1617977063789" />
+    <state x="851" y="273" key="#xdebugger.XInspectDialog" timestamp="1618204302630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618204302630" />
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1618214289054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618214289054" />
     <state x="0" y="86" key="DiffContextDialog" timestamp="1617788789090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617788789090" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1616427350887">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1617976983108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616427350887" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617976983108" />
     <state width="1899" height="451" key="GridCell.Tab.-1.bottom" timestamp="1617117548075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -280,22 +313,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="451" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
-    <state width="964" height="423" key="GridCell.Tab.0.bottom" timestamp="1617788598016">
+    <state width="1899" height="483" key="GridCell.Tab.0.bottom" timestamp="1618214174478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="964" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617788598016" />
-    <state width="964" height="423" key="GridCell.Tab.0.center" timestamp="1617788598016">
+    <state width="1899" height="483" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
+    <state width="1899" height="483" key="GridCell.Tab.0.center" timestamp="1618214174478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="964" height="423" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617788598016" />
-    <state width="964" height="423" key="GridCell.Tab.0.left" timestamp="1617788598016">
+    <state width="1899" height="483" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
+    <state width="1899" height="483" key="GridCell.Tab.0.left" timestamp="1618214174478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="964" height="423" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617788598016" />
-    <state width="964" height="423" key="GridCell.Tab.0.right" timestamp="1617788598016">
+    <state width="1899" height="483" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
+    <state width="1899" height="483" key="GridCell.Tab.0.right" timestamp="1618214174478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="964" height="423" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617788598016" />
+    <state width="1899" height="483" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618214174478" />
     <state width="1877" height="451" key="GridCell.Tab.1.bottom" timestamp="1617117537366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -312,18 +345,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117537366" />
-    <state x="136" y="140" key="SettingsEditor" timestamp="1616652309151">
+    <state x="136" y="140" key="SettingsEditor" timestamp="1617977077587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="136" y="140" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616652309151" />
+    <state x="136" y="140" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617977077587" />
     <state x="199" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617642864892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="199" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617642864892" />
-    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617785860539">
+    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617984035540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617785860539" />
+    <state x="958" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617984035540" />
     <state x="411" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617204621024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -336,9 +369,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="587" y="64" width="745" height="912" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617118125537" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617788292773">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618211121062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617788292773" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618211121062" />
   </component>
 </project>
