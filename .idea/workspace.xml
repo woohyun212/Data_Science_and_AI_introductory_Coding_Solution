@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4b29637-b063-4aed-8d68-230011046fa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/ex_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/ex_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="D:\_University\Lecture\Data_Science_and_AI_introductory_Coding\Help" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_7_1 (1)">
+  <component name="RunManager" selected="Python.todoist_api">
     <configuration name="ex_7_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data_Science_and_AI_introductory Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,28 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_7_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex_7_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Data_Science_and_AI_introductory Coding" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\_University\_Lecture\Data_Science_and_AI_introductory_Coding\chapter7\ex_7_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/ex_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,13 +131,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="todoist_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Todoist_Auto_Reflect_University_Schedules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/MakeSomething/Programming/Python/Todoist_Auto_Reflect_University_Schedules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/MakeSomething/Programming/Python/Todoist_Auto_Reflect_University_Schedules/todoist_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.todoist_api" />
+        <item itemvalue="Python.ex_8 (1)" />
         <item itemvalue="Python.ex_7_1 (1)" />
         <item itemvalue="Python.ex_9" />
         <item itemvalue="Python.ex_8" />
-        <item itemvalue="Python.ex_7_2" />
-        <item itemvalue="Python.ex_7_1" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618214402987</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="불필요한 코드 제거&#10;출력 서식 수정">
+      <created>1618229081799</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618229081799</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -257,7 +263,8 @@
     <MESSAGE value="4번째줄 2~n-1 이니 2,n 이 맞음" />
     <MESSAGE value="chapter 7 도전 문제 풀이" />
     <MESSAGE value="chapter 7 심화문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 심화문제 풀이" />
+    <MESSAGE value="불필요한 코드 제거&#10;출력 서식 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="불필요한 코드 제거&#10;출력 서식 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="182" key="#Inspections" timestamp="1617253731468">
@@ -284,10 +291,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="851" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618204302630" />
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1618229057976">
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2" timestamp="1618229080435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618229057976" />
+    <state x="221" y="112" width="1280" height="878" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618229080435" />
     <state x="226" y="75" width="1536" height="860" key="DiffContextDialog" timestamp="1618229056816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -312,22 +319,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="451" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617117548075" />
-    <state width="1164" height="351" key="GridCell.Tab.0.bottom" timestamp="1618228996942">
+    <state width="1153" height="231" key="GridCell.Tab.0.bottom" timestamp="1618332642449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
-    <state width="1164" height="351" key="GridCell.Tab.0.center" timestamp="1618228996942">
+    <state width="1153" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618332642449" />
+    <state width="1153" height="231" key="GridCell.Tab.0.center" timestamp="1618332642449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
-    <state width="1164" height="351" key="GridCell.Tab.0.left" timestamp="1618228996941">
+    <state width="1153" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618332642449" />
+    <state width="1153" height="231" key="GridCell.Tab.0.left" timestamp="1618332642449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996941" />
-    <state width="1164" height="351" key="GridCell.Tab.0.right" timestamp="1618228996942">
+    <state width="1153" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618332642449" />
+    <state width="1153" height="231" key="GridCell.Tab.0.right" timestamp="1618332642449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618228996942" />
+    <state width="1153" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618332642449" />
     <state width="1877" height="451" key="GridCell.Tab.1.bottom" timestamp="1617117537366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
